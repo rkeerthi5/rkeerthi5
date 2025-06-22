@@ -24,7 +24,7 @@ I'm a multidisciplinary tech enthusiast passionate about crafting elegant and fu
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/keerthi-developer)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/keerthi-developer)
 - 💼 [Behance](#)
 - 🖥️ [Portfolio Website](https://keerthi-r.pages.dev/#education)
 - 📊 [Kaggle](https://www.kaggle.com/keerthiramesh2005)
