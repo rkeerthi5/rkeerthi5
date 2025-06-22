@@ -16,17 +16,17 @@ I'm a multidisciplinary tech enthusiast passionate about crafting elegant and fu
 
 ## 🛠️ Tools & Technologies
 
-*Design & Prototyping*: Figma, Adobe XD, Photoshop, Illustrator  
-*Web Development*: HTML, CSS, JavaScript, React, Node.js, Tailwind CSS  
+*Design & Prototyping*: Figma, Adobe XD  
+*Web Development*: HTML, CSS, JavaScript  
 *Data & Analytics*: Python, SQL, Excel, Power BI, Pandas, Matplotlib
 
 ---
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](#)
+- 🔗 [LinkedIn](www.linkedin.com/in/keerthi-developer)
 - 💼 [Behance](#)
-- 🖥️ [Portfolio Website](#)
-- 📊 [Kaggle](#)
-- 📧 Email: @email.com  
-- 📱 Phone: +91-
+- 🖥️ [Portfolio Website](https://keerthi-r.pages.dev/#education)
+- 📊 [Kaggle](https://www.kaggle.com/keerthiramesh2005)
+- 📧 Email: rkeerthi.mani@email.com  
+- 📱 Phone: +91-9941384001
